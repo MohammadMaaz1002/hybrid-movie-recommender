@@ -36,7 +36,6 @@ graph TD
     B --> D[Hybrid Engine]
     C --> D
     D --> E[FastAPI Backend]
-    E --> F[Frontend (HTML/Jinja Templates)]
+    E --> F[Frontend: HTML & Jinja Templates]
     F --> G[Personalized Movie Recommendations]
 
-    F --> G[Personalized Movie Recommendations]
