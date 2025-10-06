@@ -38,3 +38,5 @@ graph TD
     D --> E[FastAPI Backend]
     E --> F[Frontend (HTML/Jinja Templates)]
     F --> G[Personalized Movie Recommendations]
+
+    F --> G[Personalized Movie Recommendations]
